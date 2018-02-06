@@ -80,7 +80,7 @@ Partial Class Form1
         '
         Me.btnFlorida.Location = New System.Drawing.Point(564, 204)
         Me.btnFlorida.Name = "btnFlorida"
-        Me.btnFlorida.Size = New System.Drawing.Size(75, 23)
+        Me.btnFlorida.Size = New System.Drawing.Size(81, 23)
         Me.btnFlorida.TabIndex = 5
         Me.btnFlorida.Text = "Florida"
         Me.btnFlorida.UseVisualStyleBackColor = True
